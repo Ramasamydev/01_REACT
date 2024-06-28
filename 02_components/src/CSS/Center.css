@@ -1,0 +1,36 @@
+.center{
+    width: 95%;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.my-header ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 0;
+    
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: large;
+}
+ul{
+    list-style: none;
+}
+
+.my-header{
+    background-color: blue;
+}

@@ -1,0 +1,11 @@
+.bright{
+    width: 100%;    
+}
+h1{
+    text-align: center;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
